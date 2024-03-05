@@ -52,7 +52,8 @@ const HomePage = ({ data }) => {
           <GatsbyImage
             image={Image}
             alt={frontmatter.title + ' - Featured image'}
-            className="featured-image" />
+            className="featured-image"
+            loading="eager" />
         ) : ""}
       </div>
     </div>
