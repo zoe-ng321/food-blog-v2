@@ -1,0 +1,11 @@
+{
+  "meta": {
+    "title": "Zoe's Food Bytes",
+    "titleTemplate": "%s",
+    "description": "A food blog by a software engineer",
+    "siteUrl": "https://zoe-food-bytes.netlify.app/",
+    "image": "/assets/emoji.jpg",
+    "twitterUsername": ""
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
